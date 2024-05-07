@@ -1,3 +1,5 @@
+See the result [here](http://w3.podemosaprender.org/web_publish_examples/)
+
 # What is this?
 
 This is a repo that you must fork in order to have your own blog.
